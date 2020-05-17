@@ -1,0 +1,10 @@
+export const GET_MSG_LIST = 'get_msg_list'; //留言列表
+export const GET_FRIENDS_LIST = 'get_friends_list'; //友链列表
+export const GET_TIME_LINE_LIST = 'get_time_list'; //时光轴列表
+export const GET_SKILL_LIST = 'get_skill_list'; //掌握的技能列表
+export const GET_ARTICLE_LIST = 'get_article_list'; //全部文章列表
+export const GET_HOT_ARTICLE = 'get_hot_article'; //热门文章列表
+export const GET_CLASS_ARTICLE = 'get_class_article'; //分类查询文章
+export const GET_RESOURCES_LIST = 'get_resources_list'; //资源列表
+export const GET_HOT_RESOURCES = 'get_hot_resources' //热门资源列表
+export const GET_BAIDU_TJ = 'get_baidu_tj' //百度统计数据
