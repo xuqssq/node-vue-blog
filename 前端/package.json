@@ -15,7 +15,7 @@
         "echarts": "^4.7.0",
         "element-ui": "^2.13.1",
         "font-awesome": "^4.7.0",
-        "highlight.js": "^10.0.1",
+        "highlight.js": "^10.4.1",
         "mavon-editor": "^2.9.0",
         "stylus": "^0.54.7",
         "stylus-loader": "^3.0.2",
